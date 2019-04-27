@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\JAVA\Workspace\AWSLambda\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1570771322.index
+1614246616.index
+3540191287.index
+3073198888.index
+331424613.index
+2798996131.index
