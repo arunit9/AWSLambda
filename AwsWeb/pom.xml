@@ -51,7 +51,7 @@
 			                <goal>repackage</goal>
 			            </goals>
 			            <configuration>
-			                <mainClass>com.example.demo.AwsWebApplication.java</mainClass>
+			                <mainClass>com.example.demo.AwsWebApplication</mainClass>
 			                <outputDirectory>${project.basedir}/docker</outputDirectory>
 			            </configuration>
 			        </execution>
